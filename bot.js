@@ -8,7 +8,7 @@ client.once('ready', () => {
 });
 
 // Replace 'channelID' with the ID of the channel where you want to send the messages
-const CHANNEL_ID = 'YOUR_CHANNEL_ID';
+const CHANNEL_ID = '1366868329448345651';
 
 // Function to send a certain number of messages
 async function sendMessages(channel, numberOfMessages) {
